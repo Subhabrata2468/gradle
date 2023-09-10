@@ -1,3 +1,9 @@
+# Gradle
+### It is a build automation tool.
+### Takes your code and packages it into deployable unit
+### Applies to small or large projects
+### It is written in Groovy language.
+### It is highly configurable to meet project needs![image](https://github.com/Subhabrata2468/gradle/assets/126705074/c2bbf655-3b16-4b65-ba3e-01e8ca72bc7b)
 
 ## Linux Gradle Installation
 
